@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Electives_Selection_application</string>
+    <string-array name="courses">
+        <item>Mobile Application Development</item>
+        <item>Java Full Stack</item>
+        <item>.Net Full Stack</item>
+        <item>Introduction to .NET Framework</item>
+        <item>Front-End Development with .NET</item>
+        <item>Back-End Development with .NET</item>
+        <item>Database Management</item>
+        <item>DevOps and Deployment</item>
+        <item>Project Management and Agile</item>
+    </string-array>
+</resources>
